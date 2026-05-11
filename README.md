@@ -4,6 +4,8 @@
 
 Designed and implemented a high-performance SQL analytics framework for a global hardware manufacturer to automate sales reporting workflows. Migrated critical business logic from manual Excel-based processes to scalable Stored Procedures and User Defined Functions (UDFs), reducing reporting turnaround time by 95% while creating a centralized and reliable “Single Source of Truth” for stakeholders across global markets.
 
+# [View SQL Project PDF](SQL%20Project.pdf)
+
 # 💻Technical Execution
 
 This project was designed using a Star Schema architecture optimized for scalable analytical workloads and high-performance reporting.
