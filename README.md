@@ -16,3 +16,20 @@ Built reusable SQL Views such as gross_sales and net_sales to abstract complex j
 
 **3. Dynamic Business Classification Engine**
 Implemented parameter-driven Stored Procedures such as get_market_badge to automate market segmentation and performance classification using threshold-based business rules. Markets were dynamically categorized into tiers like “Gold” and “Silver” based on sales volume criteria.
+
+# Tech Stack
+**Database & Querying**
+* MySQL
+* SQL
+* Relational Database Management Systems (RDBMS)
+* Database Design
+
+**SQL Skills**
+* Joins & Subqueries
+* Common Table Expressions (CTEs)
+* Window Functions
+* Aggregate Functions
+* Views
+* Stored Procedures
+* User-Defined Functions (UDFs)
+* Query Optimization
